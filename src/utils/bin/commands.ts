@@ -109,11 +109,18 @@ export const whoami = async (args: string[]): Promise<string> => {
 };
 
 export const ls = async (args: string[]): Promise<string> => {
-  return `a
+  return `System32
+SysWOW64
+Program Files
+Program Files (x86)
+Microsoft.NET
+Firmware`
+/*
+a
 bunch
 of
 fake
-directories`;
+directories`*/;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
