@@ -72,6 +72,12 @@ export const linkedin = async (args: string[]): Promise<string> => {
   return 'Opening linkedin...';
 };
 
+export const leetcode = async (args: string[]): Promise<string> => {
+  window.open(`https://www.leetcode.com/${config.social.leetcode}/`);
+
+  return 'Opening leetcode...';
+};
+
 // Search
 export const google = async (args: string[]): Promise<string> => {
   window.open(`https://google.com/search?q=${args.join(' ')}`);
