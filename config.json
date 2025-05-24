@@ -6,13 +6,14 @@
   "ascii": "Ramkumar",
   "social": {
     "github": "github",
-    "linkedin": "linkedin"
+    "linkedin": "linkedin",
+    "leetcode": "leetcode"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "ramkumar.arcot2022@vitstudent.ac.in",
+  "ps1_hostname": "root",
+  "ps1_username": "ramkumar",
+  "repo": "https://github.com/ramkumar03ace/Portfolio-Website",
+  "resume_url": "https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
