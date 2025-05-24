@@ -1,8 +1,8 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/ramkumar03ace/Portfolio-Website/main/readme_inside.md",
   "title": "My Portfolio",
-  "description": "Welcome to my portfolio! I'm Ramkumar, a passionate software developer with a knack for creating innovative solutions. Explore my projects and connect with me!",
-  "name": "Ramkumar",
+  "description": " - a passionate software developer with a knack for creating innovative solutions. Explore my projects and connect with me!",
+  "name": "Ramkumar Aroct Dharmalingam",
   "ascii": "Ramkumar",
   "social": {
     "github": "github",
@@ -10,13 +10,13 @@
     "leetcode": "leetcode"
   },
   "email": "ramkumar.arcot2022@vitstudent.ac.in",
-  "ps1_hostname": "root",
-  "ps1_username": "ramkumar",
+  "ps1_hostname": "rk",
+  "ps1_username": "root",
   "repo": "https://github.com/ramkumar03ace/Portfolio-Website",
   "resume_url": "https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/",
+    "patreon": "https://patreon.com/"
   },
   "colors": {
     "light": {

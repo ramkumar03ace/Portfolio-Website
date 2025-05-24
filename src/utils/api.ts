@@ -8,12 +8,12 @@ export const getProjects = async () => {
   return data;
 };
 
-export const getReadme = async () => {
+export const getReadme = async () => {    //completed
   const { data } = await axios.get(config.readmeUrl);
   return data;
 };
 
-export const getWeather = async (city: string) => {
+export const getWeather = async (city: string) => {   //completed
   try {
     const { data } = await axios.get(`https://wttr.in/${city}?ATm`);
     return data;
