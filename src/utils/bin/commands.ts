@@ -155,7 +155,9 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
-${config.ascii}                             
+<span style="color: #00FFFF;">
+${config.ascii}
+</span>
 Wellcome To My Portfolio Website!
 
 Type 'help' to see the list of available commands.
