@@ -5,19 +5,22 @@ import config from '../../../config.json';
 
 // Help
 export const help = async (args: string[]): Promise<string> => {
-  const commands = Object.keys(bin).sort().join(', ');
-  var c = '';
-  for (let i = 1; i <= Object.keys(bin).sort().length; i++) {
-    if (i % 1 === 0) {
-      c +='  ~' + Object.keys(bin).sort()[i - 1] + '\n';
-    } else {
-      c += Object.keys(bin).sort()[i - 1] + ' ';
-    }
+  const commandList = Object.keys(bin).sort();
+  let output = '';
+
+  // adjust this value for spacing width
+  const colWidth = 20;
+
+  for (let i = 0; i < commandList.length; i += 2) {
+    const first = `  ~${commandList[i]}`.padEnd(colWidth);
+    const second = commandList[i + 1] ? `  ~${commandList[i + 1]}` : '';
+    output += `${first}${second}\n`;
   }
-  return `Welcome! Here are all the available commands:
-\n${c}\n
+
+  return `Welcome! Here are all the available commands:\n\n${output}
 [tab]: trigger completion.
-[ctrl+l]/clear: clear terminal.\n
+[ctrl+l]/clear: clear terminal.
+
 Type 'sumfetch' to display summary.
 `;
 };
