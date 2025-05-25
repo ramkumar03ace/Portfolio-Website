@@ -9,7 +9,7 @@ export const help = async (args: string[]): Promise<string> => {
   var c = '';
   for (let i = 1; i <= Object.keys(bin).sort().length; i++) {
     if (i % 1 === 0) {
-      c +='-' + Object.keys(bin).sort()[i - 1] + '\n';
+      c +='  ~' + Object.keys(bin).sort()[i - 1] + '\n';
     } else {
       c += Object.keys(bin).sort()[i - 1] + ' ';
     }

@@ -31,11 +31,11 @@
     "dark": {
       "background": "#121212",
       "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "yellow": "#FF0000",
+      "green": "#00FF00",
+      "gray": "#FFFF00",  
+      "blue": "#EBCB8B",  
+      "red": "#BF616A"    
     },
     "oldDark": {
       "background": "#2E3440",
