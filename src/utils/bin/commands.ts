@@ -47,7 +47,7 @@ export const resume = async (args: string[]): Promise<string> => {
   return 'Opening resume...';
 };
 
-// Donate
+/* Donate
 export const donate = async (args: string[]): Promise<string> => {
   return `thank you for your interest. 
 here are the ways you can support my work:
@@ -55,6 +55,7 @@ here are the ways you can support my work:
 - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.patreon}" target="_blank">patreon</a></u>
 `;
 };
+*/
 
 // Contact
 export const email = async (args: string[]): Promise<string> => {
@@ -80,7 +81,7 @@ export const leetcode = async (args: string[]): Promise<string> => {
   return 'Opening leetcode...';
 };
 
-// Search
+/* Search
 export const google = async (args: string[]): Promise<string> => {
   window.open(`https://google.com/search?q=${args.join(' ')}`);
   return `Searching google for ${args.join(' ')}...`;
@@ -100,6 +101,7 @@ export const reddit = async (args: string[]): Promise<string> => {
   window.open(`https://www.reddit.com/search/?q=${args.join(' ')}`);
   return `Searching reddit for ${args.join(' ')}...`;
 };
+*/
 
 // Typical linux commands
 export const echo = async (args: string[]): Promise<string> => {
@@ -127,7 +129,7 @@ directories`*/;
 
 export const cd = async (args: string[]): Promise<string> => {
   return `unfortunately, i cannot afford more directories.
-if you want to help, you can type 'donate'.`;
+if you want to help, hire me as an intern.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
