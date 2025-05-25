@@ -33,7 +33,6 @@ export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}.
   ${config.description}
   
-Welcome to my portfolio website!
 More about me:
 'sumfetch' - short summary.
 'resume' - my latest resume.
@@ -157,9 +156,13 @@ export const sudo = async (args?: string[]): Promise<string> => {
 export const banner = (args?: string[]): string => {
   return `
 ${config.ascii}                             
-Wellcome To My Portfolio Website!                                                                                               
+Wellcome To My Portfolio Website!
+
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
+Typr 'about' to know more about me.
+
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
+
 `;
 };
