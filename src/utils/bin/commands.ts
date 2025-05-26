@@ -135,7 +135,7 @@ if you want to help, hire me as an intern.`;
 export const date = async (args: string[]): Promise<string> => {
   return new Date().toString();
 };
-
+/*
 export const vi = async (args: string[]): Promise<string> => {
   return `woah, you still use 'vi'? just try 'vim'.`;
 };
@@ -151,7 +151,7 @@ export const nvim = async (args: string[]): Promise<string> => {
 export const emacs = async (args?: string[]): Promise<string> => {
   return `you know what? just use vscode.`;
 };
-
+*/
 export const sudo = async (args?: string[]): Promise<string> => {
   window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
   return `Access denied. But at least you get a... musical surprise. 🎶 `;
@@ -163,7 +163,7 @@ export const banner = (args?: string[]): string => {
 <span style="color: #00FFFF;">
 ${config.ascii}
 </span>
-Wellcome To My Portfolio Website!
+Welcome To My Portfolio Website!
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.

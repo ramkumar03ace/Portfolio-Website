@@ -12,6 +12,15 @@
   "email": "ramkumar.arcot2022@vitstudent.ac.in",
   "ps1_hostname": "rk",
   "ps1_username": "root",
+  "university": "Vellore Institute of Technology, Vellore",
+  "course": "B.Tech in Computer Science and Engineering",
+  "location": "Arcot, Tamil Nadu, India",
+  "experience": {
+      "title": "Full Stack Developer Intern",
+      "company": "Infosys Springboard",
+      "duration": "Oct 2024 - Dec 2024",
+      "description": "Developed 'EduHub', a web-based Education Consultancy platform.I focused on backend development using Spring Boot, creating efficient REST APIs, and managing database operations with MySQL."
+    },
   "repo": "https://github.com/ramkumar03ace/Portfolio-Website",
   "resume_url": "https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link",
   "donate_urls": {
