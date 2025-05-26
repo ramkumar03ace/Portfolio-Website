@@ -1,11 +1,11 @@
 {
-  "name": "liveterm",
+    "name": "ramkumar-portfolio",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
-    "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
+    "name": "Ramkumar Arcot Dharmalingam",
+    "url": "https://example.com",
+    "email": "ramkumar.arcot2022@vitstudent.ac.in"
   },
   "scripts": {
     "dev": "next dev",
