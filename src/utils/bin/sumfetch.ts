@@ -4,7 +4,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
 
     return `
 <div style="display:flex;align-items:flex-start;">
-  <img src="/assets/profilePic_in_about.png" alt="profile" style="width:300px;height:450px;border-radius:10px;margin-right:40px;"/>
+  <img src="/assets/profile-pic.png" alt="profile" style="width:300px;height:450px;border-radius:10px;margin-right:40px;"/>
   <pre style="font-size:16px;font-family:monospace;line-height:1.4;">
 
 📟 sumfetch: short summary of me!
