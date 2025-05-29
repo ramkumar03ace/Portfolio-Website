@@ -23,20 +23,20 @@ A **terminal-styled developer portfolio** built with **Next.js**, **TypeScript**
 
 ## 📂 Folder Structure
 
-src/
-├── components/
-│ └── history/ # Terminal UI components
-├── pages/ # Next.js pages
-├── styles/ # Global styles
-├── utils/
-│ └── bin/ # Terminal logic (tab completion, shell, etc.)
+src/  
+├── components/  
+│ └── history/ # Terminal UI components  
+├── pages/ # Next.js pages  
+├── styles/ # Global styles  
+├── utils/  
+│ └── bin/ # Terminal logic (tab completion, shell, etc.)  
 
 
 ## 📦 Setup & Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rk-dev-portfolio.git
+git clone https://github.com/ramkumar03ace/rk-dev-portfolio.git
 cd rk-dev-portfolio
 
 # Install dependencies
@@ -46,21 +46,21 @@ yarn install
 yarn dev
 
 Then open http://localhost:3000 in your browser.
+```
 
 ## 🧪 Customization
+
 You can update the terminal commands, responses, and content by editing:
 
-src/utils/bin/
-
-src/components/history/
-
-pages/index.tsx
+- src/utils/bin/
+- src/components/history/
+- pages/index.tsx
 
 ## 📜 License
 
 This project is open-source and available under the MIT License.
 
-
+![Screenshot 2025-05-28 225807](https://github.com/user-attachments/assets/5aa47b95-9650-4476-9409-024f75a6fd62)
 
 ![image](https://github.com/user-attachments/assets/ecf6f7de-c9fc-4e9e-9e20-2696bee40e58)
 
