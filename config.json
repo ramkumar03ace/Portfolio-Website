@@ -6,8 +6,8 @@
 "ascii": "██████╗  █████╗ ███╗   ███╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗      █████╗     ██████╗ \n██╔══██╗██╔══██╗████╗ ████║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗    ██╔══██╗\n██████╔╝███████║██╔████╔██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝    ███████║    ██║  ██║\n██╔══██╗██╔══██║██║╚██╔╝██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██╔══██║    ██║  ██║\n██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██║  ██║    ██████╔╝\n╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝    ╚═════╝\n",
   "social": {
     "github": "ramkumar03ace",
-    "linkedin": "ramkumar-arcot-dharmalingam",
-    "leetcode": "Ramkumar_A_D"
+    "linkedin": "ramkumar03ace",
+    "leetcode": "Ramkumar03ace"
   },
   "email": "ramkumar.arcot2022@vitstudent.ac.in",
   "ps1_hostname": "rk",
@@ -22,7 +22,7 @@
       "description": "Developed 'EduHub', a web-based Education Consultancy platform.I focused on backend development using Spring Boot, creating efficient REST APIs, and managing database operations with MySQL."
     },
   "repo": "https://github.com/ramkumar03ace/Portfolio-Website",
-  "resume_url": "https://drive.google.com/file/d/1K5Ex3_yYRsnxroMu72CRvXpL_6YvIA6G/view?usp=drive_link",
+  "resume_url": "https://drive.google.com/file/d/1l86C9dwZLS4QGsMDRAogYGMeXBKycJqv/view?usp=drive_link",
   "donate_urls": {
     "paypal": "https://paypal.me/",
     "patreon": "https://patreon.com/"
